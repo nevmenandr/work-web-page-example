@@ -11,7 +11,7 @@
 2. Поместите в этот репозиторий файл index.html, это будет страница, которая потом откроется по адресу https://user.github.io/principles_of_phonology/ Добавьте все необходимые стили, картинки и прочие файлы (в частности, поместите туда файл с постером, если вы защищаете курсовую в виде постера). Мы рекомендуем использовать фреймворк [Bootstrap](http://getbootstrap.com/getting-started/). 
 * [Здесь](https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/wiki/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80-2:-HTML) можно найти материалы обучающего семинара про то, как создать HTML-страницу. 
 * [Здесь](http://ktonanovenkogo.ru/html/bootstrap/setochnaya-sistema-bootstrap-3-primer-raboty-chast-2.html) подробное описание того, как работает Bootstrap.
-3. На сайте GitHub на странице вашего репозитория над списком файлов найдите кнопку, на которой написано "Branch: master", нажмите на неё и в поле "Find or create branch" напишите "hg-pages".
+3. На сайте GitHub на странице вашего репозитория над списком файлов найдите кнопку, на которой написано "Branch: master", нажмите на неё и в поле "Find or create branch" напишите "gh-pages".
 4. Найдите выше вкладку "Settings". Нажав на неё, слева обнаружите список, в котором нужно найти пункт "Branches". Для пользователя user  репозитория principles_of_phonology эта страница будет располагаться по адресу 
 https://github.com/user/principles_of_phonology/settings/branches
 5. В разделе "Default branch" в выпадающем списке измените значение "master" на "gh-pages" и нажмите "Update".
