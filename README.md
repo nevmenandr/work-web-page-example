@@ -23,10 +23,16 @@ https://github.com/user/principles_of_phonology/settings/branches
 
 ## Видеоуроки
 
+### GitHub Pages
 Вот несколько видеоуроков, которые показывают процесс размещения на GitHub Pages пошагово: 
 * [Обучающее видео 1](https://www.youtube.com/watch?v=_Ye2_Gb_yVY)
 * [Обучающее видео 2](https://www.youtube.com/watch?v=wejKNgXaie8)
 * [Обучающее видео 3](https://www.youtube.com/watch?v=yX1W5B7V7Ec)
 
 [Вот ещё одно видео](https://www.youtube.com/watch?v=W_DD5a4ZCi8), рассказывающее, как сделать более сложный сайт, со встроенной гугл-формой. Начиная с 20:40 показывается, как разместить сайт на GitHub Pages.
+
+### Видео о Bootstrap:
+* [Анатомия Bootstrap 3 для начинающих. Урок ](https://www.youtube.com/watch?v=9N88P_CMQh0)
+* [Уроки по Bootstrap 3](https://www.youtube.com/watch?v=AYkEfr-5b1o&list=PLypd1VrGv7FPokhw3f5pwBQTHsU9T2mBq)
+
 
